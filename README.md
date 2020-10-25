@@ -23,7 +23,6 @@ These include:
 - `yarn install`
 - `cd client && yarn install`
 - `cp .env.sample .env`
--
 
 ## Available build commands
 
